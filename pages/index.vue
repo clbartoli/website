@@ -175,6 +175,18 @@ export default {
           title: this.$t('question10'),
           link: '#bridges',
         },
+        question7: {
+          title: this.$t('question7'),
+        },
+        question8: {
+          title: this.$t('question8'),
+        },
+        question9: {
+          title: this.$t('question9'),
+        },
+        question10: {
+          title: this.$t('question10'),
+        },
       }
     },
   },
