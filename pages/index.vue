@@ -141,6 +141,18 @@ export default {
         question6: {
           title: this.$t('question6'),
         },
+        question7: {
+          title: this.$t('question7'),
+        },
+        question8: {
+          title: this.$t('question8'),
+        },
+        question9: {
+          title: this.$t('question9'),
+        },
+        question10: {
+          title: this.$t('question10'),
+        },
       }
     },
   },
@@ -220,7 +232,7 @@ header {
 }
 .section3 {
   background-color: rgb(244, 244, 244);
-  text-align: right;
+  text-align: center;
   padding: 40px;
 }
 @media screen and (max-width: 1200px) {
