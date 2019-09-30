@@ -1,9 +1,9 @@
 { 
-  "tab1": "What is witnet?",
-  "tab2": "How to participate",
+  "tab1": "What is Witnet?",
+  "tab2": "How to Participate",
   "tab3": "GitHub",
   "footer_description": "Witnet is a decentralized oracle network that connects smart contracts to the outer world. It aims to allow any piece of software to retrieve the contents published at any web address with complete and verifiable proof of its integrity and withoutblindly trusting any third party.",
-  "footer_copyright": "© 2018 Witnet Foundation. Some rights reserved.",
+  "footer_copyright": "© 2019 Witnet Foundation. Some rights reserved.",
   "read_btn": "Read the White paper",
   "hero_title": "The decentralized oracle protocol.",
   "hero_description":"Witnet trustlessly connects your smart contracts to the real world.",
