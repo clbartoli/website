@@ -16,7 +16,7 @@
               </a>
             </li>
             <li>
-              <a class="link" href="#solution">
+              <a class="link" href="#don">
                 The Solution: A Decentralized Oracle Network
               </a>
             </li>
@@ -33,12 +33,12 @@
           </a>
           <ul>
             <li>
-              <a class="link" href="#witnet">
+              <a class="link" href="#witnet-as-a-blockchain">
                 Witnet as a blockchain
               </a>
             </li>
             <li>
-              <a class="link" href="#retrieve-attest-deliver">
+              <a class="link" href="#rad">
                 Retrieve-Attest-Deliver
               </a>
             </li>
@@ -60,7 +60,7 @@
           </a>
           <ul>
             <li>
-              <a class="link" href="#defense">
+              <a class="link" href="#defense-attacks">
                 Defense over Attacks
               </a>
             </li>
@@ -172,7 +172,7 @@
         to feed them information trustlessly.
       </p>
       <p class="p13">This is often called <i>"the oracle problem"</i>.</p>
-      <h3 id="solution" ref="element" class="Subsection3">
+      <h3 id="don" ref="element" class="Subsection3">
         The Solution: A Decentralized Oracle Network
       </h3>
       <p class="p14">
@@ -204,7 +204,7 @@
       <p class="p15">
         In other words, the Witnet Protocol is Decentralized Oracle Network, a
         peer-to-peer (P2P) network capable of processing
-        <a href="rad">Retrieve-Attest-Deliver</a> requests.
+        <a href="#rad">Retrieve-Attest-Deliver</a> requests.
       </p>
       <p class="p16">
         You can find a deeper explanation of the DON in this
@@ -276,7 +276,7 @@
         contracts.
       </p>
       <h2 id="flow" ref="element" class="Section2">Flow of the protocol</h2>
-      <h3 id="witnet" ref="element" class="Subection5">
+      <h3 id="witnet-as-a-blockchain" ref="element" class="Subection5">
         Witnet as a blockchain
       </h3>
       <p class="p27">
@@ -316,13 +316,13 @@
           protocol to a Smart-contract platform, for example Ethereum
         </li>
       </ul>
-      <p class="p32">
+      <p id="run-a-node" ref="element" class="p32">
         Because the Witnet blockchain is free, open, and neutral, [you can run
         your own node](https://witnet.github.io/documentation/try/run-a-node/)
         and mine blocks on the Witnet blockchain. Every node maintains the
         history of all the transactions on the blockchain.
       </p>
-      <h3 id="retrieve-attest-deliver" ref="element" class="Subection6">
+      <h3 id="rad" ref="element" class="Subection6">
         Retrieve-Attest-Deliver
       </h3>
       <p class="p32">
@@ -462,7 +462,7 @@
           >sections 4 and 5 of the Whitepaper</a
         >.
       </p>
-      <h3 id="defense" ref="element" class="Subection9">
+      <h3 id="defense-attacks" ref="element" class="Subection9">
         Defense over Attacks
       </h3>
       <p class="p49">
@@ -649,7 +649,7 @@
       <h2 id="wit-token" ref="element" class="Section5">WIT token</h2>
       <p class="p66">
         As mentioned in
-        <a href="#witnet as a blockchain">Witnet as blockchain</a>, Witnet runs
+        <a href="#witnet-as-a-blockchain">Witnet as blockchain</a>, Witnet runs
         its own Blockchain and has a native token called WIT. The Wits are
         earned by the witnesses when resolving a data request, and are used to
         encourages fair and trustworthy behaviour in the network.
@@ -690,13 +690,13 @@
         has already been preassigned. This is represented in the next figure.
       </p>
       <h2 id="sum-up" ref="element" class="Section6">To sum up</h2>
-      <h3 class="Subection13">
+      <h3 id="development-status" ref="element" class="Subection13">
         The protocol at the moment (Current development status)
       </h3>
       <p class="p70">
         UNDER CONTRSTUCTION
       </p>
-      <h3 class="Subsection14">
+      <h3 id="different-from-others" ref="different" class="Subsection14">
         Witnet different from other oracle projects
       </h3>
       <p class="p71">
@@ -751,13 +751,13 @@
       <p class="p76">
         A big difference with respect to other Oracles is that Witnet Data
         Request are fully parameterizable through the
-        <a href="#radon">RADON</a> language. Not only the number of nodes can be
-        specified but also how they aggregate Data from different sources,
-        filter and achive consensus among them. More than that Witnet allows
-        smart contracts to define their own security guarantees by specifiying
-        the collateral that needs to be staked by the nodes to participate in
-        the report of the Data Request. This prevents many
-        <a href="#defense attacks">attack vectors</a>.
+        <a href="#sheikah-radon">RADON</a> language. Not only the number of
+        nodes can be specified but also how they aggregate Data from different
+        sources, filter and achive consensus among them. More than that Witnet
+        allows smart contracts to define their own security guarantees by
+        specifiying the collateral that needs to be staked by the nodes to
+        participate in the report of the Data Request. This prevents many
+        <a href="#defense-attacks">attack vectors</a>.
       </p>
       <p class="p77">
         In summary, our proposal has a "fairness principle" hard-written into
