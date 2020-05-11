@@ -283,9 +283,9 @@
       <p class="tip">
         TIP: <br />
         Of course, the so-called miners are not actual human beings sitting in
-        front of a computer, fulfilling assignments. Instead, 
-        the miners are just computers running the witnet-rust software
-        that automatically receive and execute a series of tasks
+        front of a computer, fulfilling assignments. Instead, the miners are
+        just computers running the witnet-rust software that automatically
+        receive and execute a series of tasks
       </p>
       <a class="link" href="#trust">
         <h4 id="trust" ref="element" class="subsection">
@@ -801,10 +801,12 @@
           decrease over time.
         </li>
         <li>
-          30% will be minted in the Genesis Block: the first block in the
-          chain. These will be assigned to participants in
-          the pre-sale conducted in 2017; the Witnet Foundation; and those who
-          helped to build Stampery<a class="link" href="#footnote2">
+          30% will be minted in the Genesis Block: the first block in the chain.
+          These will be assigned to participants in the pre-sale conducted in
+          2017; the Witnet Foundation; and those who helped to build Stampery<a
+            class="link"
+            href="#footnote2"
+          >
             <sup>2</sup></a
           >)
         </li>
@@ -813,11 +815,12 @@
         The mining schedule for tokens is as follows: <br />
         The number of WITs generated per block starts at 500 and is set to
         decrease geometrically, with a 50% reduction every 1,750,000 blocks, or
-        approximately every 5 years. Each of these periodic reductions is
-        known as "halving". As a result, the total number of WITs created by the
+        approximately every 5 years. Each of these periodic reductions is known
+        as "halving". As a result, the total number of WITs created by the
         issuance mechanism will never exceed 2,500,000,000 minus the preassigned
         30%. <br />
-        Note: these figures are open to debate within the community, and subject to change.
+        Note: these figures are open to debate within the community, and subject
+        to change.
       </p>
       <a class="link-main" href="#sum-up">
         <h3 id="sum-up" ref="element" class="section">To sum up</h3>
